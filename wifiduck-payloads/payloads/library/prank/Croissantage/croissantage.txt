@@ -1,0 +1,24 @@
+REM Title: Croissantage
+REM Author:	x00rr
+REM
+REM Description: Open default browser, and launch www.croissantage.com website fullscreen :D
+REM Target:	Windows but fairly easily modified to work on any OS with a browser
+REM Version:	1.0
+REM Category:	Prank
+REM Source: https://github.com/x00rr/
+
+LOCALE FR
+DELAY 500
+GUI r
+DELAY 500
+STRING cmd /c start www.croissantage.com
+ENTER
+DELAY 2000
+TAB
+DELAY 500
+STRING Bob
+TAB
+DOWNARROW
+ENTER
+DELAY 500
+F11
