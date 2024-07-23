@@ -3,7 +3,7 @@
 ## Tested Payloads
 
 *prank*
-- Rick_Rolling_Forever ✅
+- [Rick_Rolling_Forever](https://github.com/x00rr/WiFiDuck/blob/master/wifiduck-payloads/payloads/library/prank/Rick_Rolling_Forever/payload.txt) ✅
 -
 
 *credentials*
