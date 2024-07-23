@@ -2,7 +2,27 @@
 
 ## Tested Payloads
 
+*prank*
+- Rick_Rolling_Forever ✅
+-
 
+*credentials*
+
+*execution*
+
+*exfiltration*
+
+*incident_response*
+
+*general*
+
+*mobile*
+
+*phishing*
+
+*recon*
+
+*remote_access*
 
 ---
 
