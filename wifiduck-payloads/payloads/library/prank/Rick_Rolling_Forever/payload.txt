@@ -8,6 +8,7 @@ REM Target:	Windows but fairly easily modified to work on any OS with a browser
 REM Version:	1.3
 REM Category:	Prank
 REM Source: https://github.com/UberGuidoZ/OMG-Payloads
+LOCALE fr
 DELAY 2000
 GUI r
 DELAY 500
