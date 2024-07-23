@@ -1,7 +1,7 @@
 # WiFi Duck
 
 For payloads :
-👉 Goto [wifiduck-payloads]([https://wifiduck.com](https://github.com/x00rr/WiFiDuck/blob/master/wifiduck-payloads/README.md)
+👉 Goto [wifiduck-payloads](https://github.com/x00rr/WiFiDuck/blob/master/wifiduck-payloads/README.md)
 
 <p align="center">
 <img alt="WiFi Duck Logo" src="img/thumbnail.jpg" width="640">
